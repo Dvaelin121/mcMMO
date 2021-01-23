@@ -1,5 +1,5 @@
 name: mcMMO
 main: cosmicpe\mcmmo\McMMO
 author: Muqsit
-api: 4.0.0
+api: 3.0.0, 3.13.0, 3.14.0, 4.0.0
 version: 0.0.1
